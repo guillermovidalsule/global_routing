@@ -81,8 +81,8 @@ Running it, yet again, is fairly simple:
 
 You must provide two arguments: the path to the net file and the path to the edge file.
 
-[!CAUTION]
-The program must be run from the `flute_routing` directory since FLUTE needs two hardcoded files for the LUT. It will otherwise fail.
+> [!CAUTION]
+> The program must be run from the `flute_routing` directory since FLUTE needs two hardcoded files for the LUT. It will otherwise fail.
 
 ### Edge and Net file
 
