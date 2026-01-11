@@ -1,0 +1,15 @@
+name = "flute_routing"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Guillermo Vidal Sulé"]
+maintainers = ["Guillermo Vidal Sulé <guillermo.vidal@bsc.es>"]
+maintainers-logins = ["guillermovsule"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["flute_routing"]
+
+[build-switches]
+"*".ada_version = "Ada2022"
